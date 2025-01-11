@@ -1,2 +1,2 @@
 # functionsofmgmt
-Management Levels and Functions of management 
+Management Levels and Functions of management software
